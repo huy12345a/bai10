@@ -1,6 +1,4 @@
-package TrienkhaiArraylist;
-
-
+package trienkhaiarraylist;
 
 public class TestMyLists {
     public static void main(String[] args) {
@@ -10,6 +8,5 @@ public class TestMyLists {
         list.add("shin");
         String e = list.remove(1);
         System.out.println(e);
-
     }
 }

@@ -1,4 +1,4 @@
-package TrienKhaiLinkedList;
+package trienkhailinkedlist;
 
 public class TestMyLinkedList {
     public static void main(String[] args) {
